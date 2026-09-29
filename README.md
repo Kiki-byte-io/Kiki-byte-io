@@ -18,7 +18,7 @@ Currently learning, building, breaking, and figuring things out as I go.
 
 tryna larp my way into cybersecurity 🥀
 
-cs + maths student
+cs + maths student and researcher
 
 occasionally write code that works  
 mostly wondering and digging the rabbit hole on why it worked  
