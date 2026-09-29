@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Kiki-byte-io/Kiki-byte-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I'm Khushi, a Computer Science and Mathematics student at Christ University, currently building my foundation across cybersecurity, AI, and DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm particularly interested in application security, AI-assisted security, security automation, and the intersection of intelligent systems with secure software development.
+
+I've worked with Python, Bash, SQL, Docker, Git, Kali Linux, Semgrep, and OWASP ZAP, and have gained hands-on experience through cybersecurity internships, research, and security-focused projects.
+
+Currently learning, building, breaking, and figuring things out as I go.
+
+---
+
+## REAL SHI 🥀
+
+# kiki.exe
+
+tryna larp my way into cybersecurity 🥀
+
+cs + maths student
+
+occasionally write code that works  
+mostly wondering and digging the rabbit hole on why it worked  
+hacker by delusion  
+debugger by suffering  
+das how we roll gang 🥀
+
+cybersecurity + ai + devops  
+and das how we ball 🕸️
