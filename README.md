@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm Khushi, a Computer Science and Mathematics student at Christ University, currently building my foundation across cybersecurity, AI, and DevOps.
+I'm Khushi, a Computer Science and Mathematics major at Christ University, currently building my foundation across cybersecurity, AI, and DevOps.
 
 I'm particularly interested in application security, AI-assisted security, security automation, and the intersection of intelligent systems with secure software development.
 
